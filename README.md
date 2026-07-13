@@ -1,7 +1,6 @@
 # What is this?
 
 Will's site is my first website built using html and css.
-![Screenshot](Site_Screenshot.png)
 
 # How do I view it
 
