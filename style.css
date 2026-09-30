@@ -48,3 +48,22 @@ nav {
 nav a {
     font-size: 16px;
 }
+
+.skill {
+    margin-bottom: 16px;
+}
+.skill p {
+    margin: 0 0 4px 0;
+}
+.skill-bar {
+    background-color: var(--border-color);
+    border-radius: 4px;
+    height: 14px;
+    width: 100%;
+    overflow: hidden;
+}
+.skill-fill {
+    background-color: var(--accent-color);
+    height: 100%;
+    border-radius: 4px;
+}
